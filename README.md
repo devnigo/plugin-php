@@ -1,2 +1,2 @@
 # plugin-php
-primeiro plugin em php para o wordpress
+primeiro plugin para o wordpress
