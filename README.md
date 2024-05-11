@@ -1,7 +1,7 @@
 # FlyerDataLog
 
 [![Language](https://img.shields.io/badge/language-PHP-blue.svg?style=flat-square)](https://www.php.net/)
-[![License](https://img.shields.io/badge/license-GPLv2%20or%20later-green)](https://www.gnu.org/licenses/gpl-2.0.html)
+
 
 Um plugin simples para WordPress que exibe a data e hora atuais no fuso horário GMT-3 (Brasília).
 
